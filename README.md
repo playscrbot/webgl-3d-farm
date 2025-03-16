@@ -94,7 +94,7 @@ camera.position.lerp(cameraTarget, 0.1);
 ## ⬇️ Installation
 1.Clone repository:
 ```bash
-git clone https://github.com/your-username/webgl-3d-farm.git
+git clone https://github.com/playscrbot/webgl-3d-farm.git
 ```
 
 2.Install dependencies:
